@@ -1,0 +1,4 @@
+token = "MTZjOGM3NjgtNWI3ZC00Nzc4LTgyNTgtMDg4NmM3NDQwODcyMzk5YjdkZGYtZTll_P0A1_0138125c-a0c4-45bc-b144-5f1d795f79c1"
+base_url = 'https://webexapis.com'
+roomId_Hung = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNTlmZTk3YTAtZjlmZS0xMWVkLWIxN2UtMGYwOGJhMDI1OTA2'
+roomid_delete = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNDhjYzk0OTAtZmEwOS0xMWVkLTlmMTItMWZlNWI4Nzc5Njg0'
